@@ -1,6 +1,6 @@
 cask "agenthub" do
   version "1.0.0"
-  sha256 "dcacf8a0f2843d90d1150f29416a59e5a087da715114b3704a84c54705cb7f47"
+  sha256 "94ccef70275a36d78cd716d1f7cf5b3af8a71f49c6f6f24b55be7895d0f2b4ec"
 
   url "https://github.com/intmain/AgentHub/releases/download/v#{version}/AgentHub-#{version}.dmg"
   name "AgentHub"
